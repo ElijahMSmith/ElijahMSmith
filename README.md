@@ -3,17 +3,8 @@
 My name is Eli and I'm an undergraduate CS major and mathematics minor at the University of Central Florida graduating in May of 2023.
 I'm the projects co-director for KnightHacks and also a undergraduate researcher/team lead at the Wearable Engineering and Assitive Robotics (WEAR) Lab.
 
-I'm always looking for new opportunities, don't hesitate to reach out!
-You can contact me most easily at: elijah.matthew.smith@knights.ucf.edu.
-
-Actively looking for software-engineering or full-stack opportunities for Spring/Summer 2022.
-
-My favorite projects from all my repositories, in no particular order:
-- WeFEI (WEAR lab project)
-- Kronos (ShellHacks 2021)
-- Daily Challenge Bot
-- BandNames
-- Othello
+I'm always looking for new opportunities! You can contact me most easily at: elijah.matthew.smith@knights.ucf.edu.
+Currently looking for software-engineering or full-stack opportunities for Spring/Summer 2022.
 
 Fun Facts:
 - I love all racket sports, except racquetball because it's too scary.
