@@ -1,27 +1,12 @@
 ### Good morning, good afternoon, good evening, and good night!
 
-My name is Eli and I'm an undergraduate CS major and mathematics minor at the University of Central Florida graduating in May of 2023.
-I'm the projects co-director for KnightHacks and also a undergraduate researcher/team lead at the Wearable Engineering and Assitive Robotics (WEAR) Lab.
+My name is Eli and I'm an undergraduate CS major and mathematics minor at the University of Central Florida graduating in May of 2023. I currently serve as the president of Knight Hacks and a Tech Lead for the Google Developer Student Club (GDSC) chapter at UCF.
 
-I'm always looking for new opportunities! You can contact me most easily at: elijah.matthew.smith@knights.ucf.edu.
-My current focus is on full stack software engineering opportunities for either Spring or Fall of 2022.
+I'm always looking for new opportunities! You can contact me most easily at either of the following emails:
+elijah.matthew.smith@knights.ucf.edu
+elijah@knighthacks.org
 
 Fun Facts:
 - I love all racket sports, except racquetball because it's too scary.
 - Florida is my fourth state of residence. Maryland -> Texas -> Pennsylvania -> Florida.
-- I enjoy tutoring and teaching STEM to students of all ages.
-
-<!--
-**ElijahMSmith/ElijahMSmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I'm passionate about teaching and creating opportunities in STEM for students of all ages.
