@@ -12,3 +12,5 @@ Fun Facts:
 - I love all racket sports, except racquetball because it's too scary.
 - Florida is my fourth state of residence. Maryland -> Texas -> Pennsylvania -> Florida.
 - I'm passionate about teaching and creating opportunities in STEM for students of all ages.
+
+[![Eli's GitHub stats](https://github-readme-stats.vercel.app/api?username=elijahmsmith)](https://github.com/anuraghazra/github-readme-stats)
