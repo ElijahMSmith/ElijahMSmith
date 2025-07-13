@@ -8,6 +8,6 @@ Fun Facts:
 - I love all racket sports, except racquetball because it's too scary.
 - I've lived in Maryland -> Texas -> Pennsylvania -> Florida -> Illinois.
 - I'm passionate about teaching and creating opportunities in STEM for students of all ages.
-- I am a big JavaScript enthusaist!
+- I am a big JavaScript enthusiast!
 
 More about me: [https://elijahmsmith.com/](https://elijahmsmith.com)
